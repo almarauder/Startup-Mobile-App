@@ -1,4 +1,4 @@
-# startup_app
+# Startup Mobile Application 
 
 Just an App for the Alatau Hub Startup Battle (I suppose?) 
 
